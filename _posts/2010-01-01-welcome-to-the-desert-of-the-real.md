@@ -1,15 +1,14 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Bienvenido al blog
+subtitle: 'En este blog hablaremos sobre temas de hacking y seguridad informatica.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Como primer post de este blog me gustaria dar un agredecimiento de ante mano por pasar y darte el tiempo de leer esta pequeña informacion.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://noticiasseguridad.com/nsnews_u/2017/02/hacker2-resized.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://noticiasseguridad.com/nsnews_u/2017/02/hacker2-resized.png
 category: blog
 tags:
   - welcome

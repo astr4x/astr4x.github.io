@@ -11,119 +11,25 @@ optimized_image: >-
   https://noticiasseguridad.com/nsnews_u/2017/02/hacker2-resized.png
 category: blog
 tags:
-  - welcome
+  - bienvenido
   - blog
-author: thiagorossener
+author: astrax
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Bienvenido a este blog llamado <a href="astr4x.github.io">Zero a Hacking</a>, donde estare subiendo continuamente temas, cursos, post, hacking news & mucho más. Por cierto que espero que les guste el diseño de la página que esté amigable a la vista y muy interactiva más que nada un sitio en el cual puedas llegar a leer de forma comoda y además lo importante es aprender sobre todo. . . Iniciare con una pequeña frase que mi buen amigo Héctor López (Fundador de la Omhe.org) siempre menciona y me viene a la mente
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> Si tu empresa gasta más en café que en seguridad TI, serás hackeado. Es más merecerás ser hackeado -Eric S. Raymond
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Es muy cierto que muchas empresas gastan muchisimo en otras cosas que en seguridad informatica es por eso que **Zero a hacking** inicia para formar gente con conocimientos y preparación relacionado al hacking y seguridad informatica. Claro mi finalidad es formar gente con ética pero lamentablemente y siendo muy sinceros no hay muchos empleos para algo ético pero siempre hay que hacer el bien ya que el mal no trae nada bueno.
 
-## Inline HTML elements
+## ¿Que temáticas traes para nosotros?
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Bueno como punto importante y una pequeña descripcción de mi biografia llevo al día de hoy algo de tiempo en este hermoso y gran mundo del hacking del cual estoy muy orgulloso es por eso que en base a mi experiencia y claro juntos iremos desarrollando las siguiente temáticas dentro de este blog:
 
-* **To bold text**, use `<strong>`.
-* *To italicize text*, use `<em>`.
-* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+* Curso/Academia de Hacking.
+* Probar hardware hacking.
+* Intercambiando conocimiento.
 
-Most of these elements are styled by browsers with few modifications on our part.
+Eso es de una manera muy general que bien luego iremos desarrollando pero como primer punto iniciamos con el tema o curso llamado **Redes & Seguridad** que es un muy buen tema para iniciar y luego pasaremos a los demás temas pero si es importante aprender sobre esto.
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
---page-break--
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Bien sin más que decir, sigue paseando sobre este blog del cual espero que te guste y encuentres lo que buscas. Recuerda. . . Puedes usar el formulario de contácto para enviar temas o post del cual te gusten y claro enviar una buena opinión.

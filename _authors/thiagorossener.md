@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
+name: astrax
 display_name: Jose Angel Alamillo
 position: Pentester
 bio: Programador|Pentester & Conferencista

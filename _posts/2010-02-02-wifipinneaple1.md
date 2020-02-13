@@ -1,21 +1,20 @@
 ---
-date: 2019-05-12T19:17:18.000Z
+date: 2020-02-12T12:00:00.000Z
 layout: post
-title: Far far away behind the word mountains
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Wifi Pinneaple
+subtitle: Conociendo la Wifi Pinneaple (1).
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Daremos inicio a varios post con la finalidad de conocer la famosa Wifi Pinneaple un dispositivo dedicado a hacking wifi
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme5_wmutla.jpg
+  https://http2.mlstatic.com/the-wifi-pineapple-tetra-libro-D_NQ_NP_906369-MLM28332406151_102018-F.webp
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme5_wmutla.jpg
-category: travel
+  https://cdn.shopify.com/s/files/1/0068/2142/products/wp-sticker-yellow-on-black_800x.jpg?v=1559600324
+category: 
 tags:
-  - mountains
-  - travel
-  - adventure
-author: thiagorossener
+  - hacking
+  - hackingwifi
+  - hardwarehacking
+author: astrax
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

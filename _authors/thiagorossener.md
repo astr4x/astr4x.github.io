@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/uploads/profile.png
 name: thiagorossener
 display_name: Jose Angel Alamillo
-position: Chief Editor
+position: Pentester
 bio: Programador|Pentester & Conferencista
 github_username: astr4x
 facebook_username: zerosecinfo

@@ -12,13 +12,13 @@ email: alamillodiazdeleon@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
-  - title: Home
+  - title: Inicio
     url: /
-  - title: About
+  - title: Acerca del Autor
     url: /about
-  - title: Contact
+  - title: Contacto
     url: /contact
-  - title: Feed
+  - title: #Feed
     url: /feed.xml
 
 

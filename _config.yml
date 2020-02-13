@@ -14,7 +14,7 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
-  - title: Acerca del Autor
+  - title: Acerca del autor
     url: /about
   - title: Contacto
     url: /contact
@@ -25,7 +25,7 @@ menu:
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: astr4x
-facebook_username: j.angelalamillo
+facebook_username: zerosecinfo
 twitter_username: Astrax0
 instagram_username: secalamillo/
 linkedin_username: jose-angel-alamillo-diaz-de-leon-1584b1195/
@@ -99,4 +99,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.0.2
+version: #v3.0.2

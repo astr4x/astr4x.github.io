@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: Some description.
+title: Acerca de
+description: Pentester.
 permalink: /about/
 ---
 
@@ -9,9 +9,4 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Especialista en seguridad informática desde 2017, apasionado por todo lo referente a las tecnologías, con iniciativa propia e ingenioso para llevar acabo cualquier problemática que se presente con relación a mi profesión, además tengo la capacidad de adaptarme a cualquier ambiente informático y responsable para dar buenos resultados. He impartido distintos cursos y conferencias a nivel nacional relacionadas a la seguridad informática y hacking ético.
